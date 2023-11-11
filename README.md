@@ -4,7 +4,7 @@
 
 ![Marcaly GitHub stats](https://github-readme-stats.vercel.app/api?username=marcaly&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcaly)](https://github.com/marcaly/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcaly&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
