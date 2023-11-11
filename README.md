@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá! Eu sou o Gabryel Marçal
 
-<!--
-**Marcaly/Marcaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryel-marcal/)
 
-Here are some ideas to get you started:
+![Marcaly GitHub stats](https://github-readme-stats.vercel.app/api?username=marcaly&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcaly)](https://github.com/marcaly/github-readme-stats)
+
+## Tecnologias que eu uso no meu dia
+<div style="display: inline_block"><br/>
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+## Contatos: 
+Gmail: gmmarcal2@gmail.com
+
+Linkedin: https://www.linkedin.com/in/gabryel-marcal
